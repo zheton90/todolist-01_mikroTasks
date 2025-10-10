@@ -10,6 +10,7 @@ function App() {
     <div>
       <h2>GIT</h2>
       <p>first commit</p>
+      <p>first remote commit</p>
     </div>
     {/*<div>*/}
     {/*  <h2>Sprint 3</h2>*/}
