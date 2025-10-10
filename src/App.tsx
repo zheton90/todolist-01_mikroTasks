@@ -1,5 +1,5 @@
 import './App.css'
-import {Routing} from "./routing/Routing.tsx";
+// import {Routing} from "./routing/Routing.tsx";
 
 function App() {
   return <div >
@@ -9,7 +9,7 @@ function App() {
     {/*</div>*/}
     <div>
       <h2>GIT</h2>
-
+      <p>first commit</p>
     </div>
     {/*<div>*/}
     {/*  <h2>Sprint 3</h2>*/}
