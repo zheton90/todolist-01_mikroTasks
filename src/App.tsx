@@ -11,6 +11,7 @@ function App() {
       <h2>GIT</h2>
       <p>first commit</p>
       <p>first developer commit</p>
+      <p>second developer commit</p>
 
     </div>
     {/*<div>*/}
