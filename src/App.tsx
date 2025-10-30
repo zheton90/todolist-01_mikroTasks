@@ -12,6 +12,7 @@ function App() {
       <p>first commit</p>
       <p>first developer commit</p>
       <p>second developer commit</p>
+      <p>3th developer commit</p>
 
     </div>
     {/*<div>*/}
