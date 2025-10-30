@@ -12,6 +12,7 @@ function App() {
       <p>first commit</p>
       <p>first remote commit</p>
       <p>second remote commit</p>
+      <p>3th commit</p>
       <p>make dev branch</p>
     </div>
     {/*<div>*/}
