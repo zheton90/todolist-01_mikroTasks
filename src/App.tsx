@@ -11,7 +11,9 @@ function App() {
       <h2>GIT</h2>
       <p>first commit</p>
       <p>first developer commit</p>
-      <p>first login commit</p>
+        <p>3th developer commit</p>
+        <p>first login commit</p>
+        <p>second developer commit</p>
 
     </div>
     {/*<div>*/}
